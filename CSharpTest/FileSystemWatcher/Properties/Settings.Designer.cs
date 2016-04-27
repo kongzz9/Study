@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FileSystemWatcher.Properties
+namespace FileSystemWatcherTest.Properties
 {
 
 
