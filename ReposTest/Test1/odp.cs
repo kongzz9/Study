@@ -15,5 +15,29 @@ namespace Test1
         {
             
         }
+
+
+        private void ConnectDB()
+        {
+
+        }
+
+        private void Disconnect()
+        {
+
+        }
+
+        public DataTable ExecuteQuery(string Query)
+        {
+            DataTable dt = new DataTable();
+
+            using (IDbConnection conn )
+            {
+                
+            }
+            
+
+            return dt;
+        }
     }
 }
