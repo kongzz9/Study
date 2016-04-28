@@ -30,6 +30,7 @@ namespace WatcherConsole
 
         private static void Incoming_Changed(object sender, FileSystemEventArgs e)
         {
+            // Edited in GitHub 2016-04-27 
             Console.WriteLine("{0} : Changed", e.FullPath);
         }
     }
